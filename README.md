@@ -8,3 +8,5 @@ there will be a database about game and its players
   maybe something more...
 
 also some kind of web site for registering to the game where you will creat your own account. 
+
+and last but not least the phyton part idk what to do here if there will be time probbably some little game or something eysier  
